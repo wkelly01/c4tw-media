@@ -1,0 +1,7 @@
+echo "# c4tw-media" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wkelly01/c4tw-media.git
+git push -u origin main
